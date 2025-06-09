@@ -1,0 +1,64 @@
+[
+    {
+        "name": "Kamil",
+        "surname": "Super",
+        "group": "2bt",
+        "grades": [
+            1,
+            2.5,
+            6
+        ],
+        "presence": 50
+    },
+    {
+        "name": "Jan",
+        "surname": "Kabel",
+        "group": "3bt",
+        "grades": [
+            1,
+            2.5,
+            6
+        ],
+        "presence": 100
+    },
+    {
+        "name": "Patryk",
+        "surname": "Konfitura",
+        "group": "2bt",
+        "grades": [
+            1,
+            5,
+            6,
+            1,
+            2
+        ],
+        "presence": 80
+    },
+    {
+        "name": "Szymon",
+        "surname": "Decha",
+        "group": "3bt",
+        "grades": [
+            1,
+            5,
+            6,
+            1,
+            2
+        ],
+        "presence": 70
+    },
+    {
+        "name": "Ancjo",
+        "surname": "Miska",
+        "group": "2TFR",
+        "grades": [
+            4.0,
+            5.0,
+            1.0,
+            2.0,
+            4.0,
+            6.0
+        ],
+        "presence": 100
+    }
+]
